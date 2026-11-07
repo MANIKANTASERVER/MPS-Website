@@ -1,4 +1,7 @@
 *.bak
 skills/
+*.txt
+brochure_crops/
+brochure_pages/
 .DS_Store
 Thumbs.db
